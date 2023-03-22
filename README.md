@@ -7,4 +7,4 @@ then start the journey of regestering a drone.
 
 If you would like to supress warnings during initialization, create 'drone' database and run the sql scripts manually, set the update ddl
 
-Otherwise, to stay consistent with the requirements, I have added an embedded in memory h2 databas config hashed if needed in application.properties : )
+Otherwise, to stay consistent with the requirements, I have added an embedded in memory h2 database config hashed if needed in application.properties : )
